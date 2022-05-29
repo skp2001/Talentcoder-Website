@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Talentcoder'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60559D6CC793453FAA1030F0D9B3763F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5676B7BC648D4F8783E3483DB6AC8B5E }}
           package: .
